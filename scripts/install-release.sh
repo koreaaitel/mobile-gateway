@@ -2,7 +2,7 @@
 # ClawOps Mobile Gateway — GitHub Release 원클릭 설치기
 set -eu
 
-REPO="clawopshq/mobile-gateway"
+REPO="koreaaitel/mobile-gateway"
 API="https://api.github.com/repos/$REPO"
 
 die() {
