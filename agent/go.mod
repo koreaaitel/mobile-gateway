@@ -1,3 +1,3 @@
-module github.com/clawopshq/mobile-gateway/agent
+module github.com/koreaaitel/mobile-gateway/agent
 
 go 1.23
